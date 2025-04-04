@@ -17,6 +17,9 @@ nav{
     min-height: 50vh;
     color: white;
     padding: 80px 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 } /*
 nav ul {
     list-style: none;
