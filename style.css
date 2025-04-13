@@ -10,10 +10,10 @@ body {
     padding: 15px;
 }*/
 nav{
-    background: linear-gradient(to right, #3e064b, #b023a9); /*color gradient */
+    background: linear-gradient(to right, #4d6692, #8a7478); /*color gradient */
 }
 .hero {
-    background: linear-gradient(to right,#3e064b, #b023a9); /* color gradient */
+    background: linear-gradient(to right,#4d6692, #8a7478); /* color gradient */
     min-height: 50vh;
     color: white;
     padding: 80px 0;
@@ -40,7 +40,7 @@ nav ul li a {
    
 }*/
 .btn {
-    background: #1e599d;
+    background: #294760;
     color: rgb(242, 243, 247);
     padding: 10px 20px;
     text-decoration: none;
@@ -71,7 +71,7 @@ nav ul li a {
     border-radius: 5px;
 }
 footer {
-    background: linear-gradient(to right,#3e064b, #b023a9);/*color gradient*/
+    background: linear-gradient(to right,#4d6692, #8a7478);/*color gradient*/
     color: white;
     padding: 10px;
     position: relative;
